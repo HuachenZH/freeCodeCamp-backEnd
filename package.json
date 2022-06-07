@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vocifrus",
+	"description": "freeCodeCamp. Im learning backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
