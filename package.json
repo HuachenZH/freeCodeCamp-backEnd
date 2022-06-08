@@ -5,8 +5,10 @@
 	"keywords": [ "soFarAway", "freecodecamp", "kali", "raining" ],
 	"license": "MIT", 
 	"version": "0.0.0",
+
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "4.14.0",
+		"moment": "2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
