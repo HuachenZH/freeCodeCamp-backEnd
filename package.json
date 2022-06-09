@@ -2,13 +2,17 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Vocifrus",
 	"description": "freeCodeCamp. Im learning backend",
-	"keywords": [ "soFarAway", "freecodecamp", "kali", "raining" ],
-	"license": "MIT", 
-	"version": "2.10.2",
-
+	"keywords": [
+		"soFarAway",
+		"freecodecamp",
+		"kali",
+		"raining"
+	],
+	"license": "MIT",
+	"version": "0.1.0",
 	"dependencies": {
 		"express": "4.14.0",
-		"moment": "2.14.0"
+		"moment": "2.10.2"
 	},
 	"main": "server.js",
 	"scripts": {
@@ -18,5 +22,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
-	
 }
